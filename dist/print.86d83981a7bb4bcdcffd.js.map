@@ -1,0 +1,1 @@
+{"version":3,"file":"print.86d83981a7bb4bcdcffd.js","mappings":"4JAAe,SAASA,IACtBC,QAAQC,IAAI,+B","sources":["webpack://getting-started-using-a-configuration/./src/print.js"],"sourcesContent":["export default function printMe() {\r\n  console.log('I get called from print.js!');\r\n}\r\n"],"names":["printMe","console","log"],"sourceRoot":""}
