@@ -13,20 +13,17 @@
       "1 index": 826,
       "1 vendors": 216
     },
-    "usedIds": [
-      216,
-      666,
-      740,
-      826
-    ]
+    "usedIds": []
   },
   "modules": {
     "byIdentifier": {
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use!./src/index.js": 352,
       "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use!./src/index.js|45a8a2e82bb9ebae476e7d357f2b40e4": 111,
       "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use!./src/index.js|f8d52495a8aa5a4cc37fe4256f161754": 858,
       "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use!./src/print.js": 544,
       "./node_modules/lodash/lodash.js": 486,
       "./node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[1].use[1]!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/style.css": 949,
+      "./node_modules/style-loader/dist/cjs.js!./node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[1].use[1]!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/style.css": 720,
       "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js": 379,
       "./node_modules/style-loader/dist/runtime/insertBySelector.js": 569,
       "./node_modules/style-loader/dist/runtime/insertStyleElement.js": 216,
@@ -38,14 +35,15 @@
     "usedIds": [
       216,
       236,
+      352,
       379,
       486,
       544,
       565,
       569,
       589,
+      720,
       795,
-      858,
       949
     ]
   }
